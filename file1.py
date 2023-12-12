@@ -1,5 +1,6 @@
-arr = ['one', 'two']
+arr = list(range(11))
 
 for i in arr:
-    print(i)
+    if (i & 1):
+        print (i)
 
