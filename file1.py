@@ -1,4 +1,5 @@
-for i in range(10):
+arr = ['one', 'two']
+
+for i in arr:
     print(i)
 
-    
